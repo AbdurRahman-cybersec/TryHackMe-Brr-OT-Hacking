@@ -1,4 +1,4 @@
-# TryHackMe Brr Room — OT Hacking Write-up
+# TryHackMe Brr Room - OT Hacking Write-up
 
 > **Spoiler warning:** This repository documents the path used to complete the TryHackMe **Brr** room and includes screenshots of the decoded result.
 
